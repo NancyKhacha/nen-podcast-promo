@@ -2,7 +2,7 @@
 
 Промолендинг тру-крайм-подкаста НЭН к Хэллоуину.
 
-[Опубликованная версия](https://nen-net-eto-nenormalno.nancykhacha1981.chatgpt.site/) · [Подкаст на Mave](https://mave.stream/netetonenorm)
+[Опубликованная версия](https://nancykhacha.github.io/nen-podcast-promo/) · [Подкаст на Mave](https://mave.stream/netetonenorm)
 
 ## Запуск
 
